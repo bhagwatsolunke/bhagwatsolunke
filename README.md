@@ -16,11 +16,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bhagwatsolunke9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhagwatsolunke9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bhagwat-solunke-1bb47323a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhagwat-solunke-1bb47323a" height="30" width="40" /></a>
-<a href="https://instagram.com/bhagwatsolunke_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bhagwatsolunke_/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/bhagwat_ms07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhagwat_ms07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bhagwatsolunke007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bhagwatsolunke007/" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/bhagwat-solunke-1bb47323a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhagwat-solunke-1bb47323a" height="30" width="40" /></a>
+<a href="https://twitter.com/bhagwatsolunke9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhagwatsolunke9" height="30" width="40" /></a>
+<a href="https://instagram.com/bhagwatsolunke_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bhagwatsolunke_/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
