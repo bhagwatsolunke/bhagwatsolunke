@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhagwat Solunke</h1>
 <h3 align="center">A Software developer</h3>
-<img align="right" Alt="Codding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"
+<img align="right" Alt="Codding" style="border-radius: 50%" width="350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47euu8bsyoz5glun5i8wcyv1o8w5289pje2sekkdq2&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagwatsolunke&label=Profile%20views&color=0e75b6&style=flat" alt="bhagwatsolunke" /> </p>
 
